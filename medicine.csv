@@ -1,0 +1,13 @@
+number,gender,age,blood pressure, medicine
+1,Male,20,Normal,A
+2,Female,73,Normal,B
+3,Male,37,High,A
+4,Male,33,Low,B
+5,Female,48,High,A
+6,Male,29,Normal,A
+7,Female,52,Normal,B
+8,Male,42,Low,B
+9,Male,61,Normal,B
+10,Female,30,Normal,A
+11,Female,26,Low,B
+12,Male,54,High,A
